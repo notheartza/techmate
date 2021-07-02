@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "159536926265",
+    "firebase_url": "https://chat-flutter-1150a.firebaseio.com",
+    "project_id": "chat-flutter-1150a",
+    "storage_bucket": "chat-flutter-1150a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159536926265:android:69abf93eff22d1a2fac7e8",
+        "android_client_info": {
+          "package_name": "com.notheart.techsmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159536926265-uhmjmpj9esf8smfmn25huh622nvt9vn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvwzRQqiBHokysuncRF-PV7QhXGCWMii8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159536926265-uhmjmpj9esf8smfmn25huh622nvt9vn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
