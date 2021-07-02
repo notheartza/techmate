@@ -53,7 +53,7 @@ class _TypeNewsPageState extends State<TypeNewsPage> {
     News getJson;
 
     var response = await http.get(
-        'http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=ddd38a270ab14301ae09e5a80f0db98f',
+        'http://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=your API Key',
         headers: {HttpHeaders.contentTypeHeader: 'application/json'});
     print('Connecting');
     if (response.statusCode == 200) {
